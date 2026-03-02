@@ -147,7 +147,7 @@ Then: `Tools → Board → Boards Manager → Search "esp32" → Install`
 
 ## 🎬 Demo
 
-▶️ Watch `demo_video.mp4` included in this repository for a live demonstration of the IDS detecting an active CAN bus attack in real time.
+▶️ Watch `OUTPUT_VIDEO.mp4` included in this repository for a live demonstration of the IDS detecting an active CAN bus attack in real time.
 
 ---
 
