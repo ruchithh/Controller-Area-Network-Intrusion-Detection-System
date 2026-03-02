@@ -166,5 +166,17 @@ Then: `Tools → Board → Boards Manager → Search "esp32" → Install`
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+👨‍💻 Author
+
+Kairamkonda Ruchith
+
+---
+
+🤝 Collaboration
+
+Developed as part of an academic team project.
+This repository represents my implementation and maintained version.
+
+----
 
 *Built with ❤️ for automotive cybersecurity research.*
